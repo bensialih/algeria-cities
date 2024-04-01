@@ -6,10 +6,11 @@ from cities.models import City
 
 
 class Command(BaseCommand):
+    '''command that loads cities into database'''
 
     def handle(self, *args, **options):
         print('start migration')
-        json_path = os.path.join(settings.BASE_DIR, '../', 'json', 'algeria_cities.json')
+        json_path = os.path.join(settings.JSON_CITY_DATA)
 
         count = 0
         with open(json_path) as fl:
@@ -19,4 +20,3 @@ class Command(BaseCommand):
                 count += 1
 
         print(f'successfully added {count} cities')
-

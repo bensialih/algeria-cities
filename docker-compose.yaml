@@ -1,0 +1,35 @@
+version: "3"
+services:
+  database:
+    image: postgis/postgis:15-3.4
+
+    ports:
+    - 5432:5432
+    environment:
+    - POSTGRES_PASSWORD=testpass
+    - POSTGRES_USER=algeria
+    - POSTGRES_DB=geo_algeria
+    - DB_HOST=database
+    - DOCKER=true
+
+  application:
+    build:
+      context: .
+      dockerfile: ./geo/Dockerfile
+    ports:
+    - 8000:8000
+
+    environment:
+    - POSTGRES_PASSWORD=testpass
+    - POSTGRES_USER=algeria
+    - POSTGRES_DB=geo_algeria
+    - DB_HOST=database
+    - DOCKER=true
+
+    depends_on:
+    - database
+
+    volumes:
+    - ./geo:/app
+    
+    command: python3 /app/manage.py runserver 0.0.0.0:8000

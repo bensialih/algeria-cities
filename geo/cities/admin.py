@@ -1,3 +1,5 @@
 from django.contrib import admin
+from cities.models import City, GeoLocation
 
-# Register your models here.
+admin.site.register(City, admin.ModelAdmin)
+admin.site.register(GeoLocation, admin.ModelAdmin)
