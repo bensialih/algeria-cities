@@ -144,4 +144,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 JSON_CITY_DATA = os.path.join(BASE_DIR, '../', 'json', 'algeria_cities.json')
 if os.environ.get("DOCKER"):
-    JSON_CITY_DATA = os.path.join(BASE_DIR, 'algeria_cities.json')
+    JSON_CITY_DATA = os.path.join(BASE_DIR, 'json', 'algeria_cities.json')

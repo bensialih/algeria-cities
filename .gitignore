@@ -8,3 +8,4 @@ pubspec.yaml
 geo/db.sqlite3
 geo/**/__pycache__
 geo/static
+geo/start.sh

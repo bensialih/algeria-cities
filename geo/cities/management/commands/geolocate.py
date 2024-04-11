@@ -8,7 +8,11 @@ import time
 
 class Command(BaseCommand):
 	def handle(self, *args, **options):
-		'''API request to get geolocation of cities'''
+		'''
+		DEPRECATED:
+		API request to get geolocation of cities
+		no longer in use: should use site to manually input for a better result
+		'''
 
 		key = os.environ.get("MAP_API_KEY")
 		gmaps = googlemaps.Client(key=key)

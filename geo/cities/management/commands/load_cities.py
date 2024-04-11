@@ -12,11 +12,19 @@ class Command(BaseCommand):
         print('start migration')
         json_path = os.path.join(settings.JSON_CITY_DATA)
 
+        if City.objects.count() == 1541:
+            print("script has already been ran.")
+            return
+
         count = 0
         with open(json_path) as fl:
             payload = json.load(fl)
             for item in payload:
-                City.objects.create(**item)
+                try:
+                    City.objects.create(**item)
+                except Exception as e:
+                    print("script has already been ran.")
+                    return True
                 count += 1
 
         print(f'successfully added {count} cities')

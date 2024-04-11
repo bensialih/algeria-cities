@@ -31,5 +31,6 @@ services:
 
     volumes:
     - ./geo:/app
-    
-    command: python3 /app/manage.py runserver 0.0.0.0:8000
+    - ./json:/app/json
+    - ./start.sh:/app/start.sh
+    command: bash start.sh
