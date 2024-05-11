@@ -85,4 +85,3 @@ if __name__ == '__main__':
 
 	to_dict = [item.dict() for item in cleaned_items]
 	write_to_location(to_city_json, to_dict)
-
