@@ -12,3 +12,12 @@ class City(BaseModel):
     wilaya_name: str
     osm_id: int
 
+    def __str__(self):
+        return str(self.commune_name_ascii)
+
+
+class NotFound(BaseModel):
+    city: City
+
+    def __str__(self):
+        return str(self.city)

@@ -5,3 +5,4 @@
 pubspec.lock
 pubspec.yaml
 .env
+**/__pycache__/**
