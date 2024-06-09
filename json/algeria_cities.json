@@ -1658,7 +1658,7 @@
         "wilaya_code": "05",
         "wilaya_name_ascii": "Batna",
         "wilaya_name": "باتنة",
-        "osm_id": 7157031861
+        "osm_id": 5176213
     },
     {
         "id": 125,
@@ -2010,7 +2010,7 @@
         "wilaya_code": "06",
         "wilaya_name_ascii": "Béjaïa",
         "wilaya_name": " بجاية",
-        "osm_id": 1368578395
+        "osm_id": 4112934
     },
     {
         "id": 226,
@@ -2692,7 +2692,7 @@
         "wilaya_code": "08",
         "wilaya_name_ascii": "Béchar",
         "wilaya_name": "بشار",
-        "osm_id": 2527547364
+        "osm_id": 6530988
     },
     {
         "id": 268,
@@ -3627,7 +3627,7 @@
         "wilaya_code": "11",
         "wilaya_name_ascii": "Tamanrasset",
         "wilaya_name": "تمنراست",
-        "osm_id": 4885375565
+        "osm_id": 4175370
     },
     {
         "id": 359,
@@ -4254,7 +4254,7 @@
         "wilaya_code": "13",
         "wilaya_name_ascii": "Tlemcen",
         "wilaya_name": "تلمسان",
-        "osm_id": 839605872
+        "osm_id": 6666583
     },
     {
         "id": 408,
@@ -5079,7 +5079,7 @@
         "wilaya_code": "15",
         "wilaya_name_ascii": "Tizi Ouzou",
         "wilaya_name": "تيزي وزو",
-        "osm_id": 2610398988
+        "osm_id": 4291973
     },
     {
         "id": 547,
@@ -5827,7 +5827,7 @@
         "wilaya_code": "16",
         "wilaya_name_ascii": "Alger",
         "wilaya_name": "الجزائر",
-        "osm_id": 2641137540
+        "osm_id": 2712668
     },
     {
         "id": 584,
@@ -5992,7 +5992,7 @@
         "wilaya_code": "16",
         "wilaya_name_ascii": "Alger",
         "wilaya_name": "الجزائر",
-        "osm_id": 2027854582
+        "osm_id": 540605
     },
     {
         "id": 578,
@@ -6300,7 +6300,7 @@
         "wilaya_code": "16",
         "wilaya_name_ascii": "Alger",
         "wilaya_name": "الجزائر",
-        "osm_id": 795988394
+        "osm_id": 542584
     },
     {
         "id": 581,
@@ -6641,7 +6641,7 @@
         "wilaya_code": "17",
         "wilaya_name_ascii": "Djelfa",
         "wilaya_name": "الجلفة",
-        "osm_id": 3790840624
+        "osm_id": 6533505
     },
     {
         "id": 639,
@@ -8049,7 +8049,7 @@
         "wilaya_code": "21",
         "wilaya_name_ascii": "Skikda",
         "wilaya_name": "سكيكدة",
-        "osm_id": 1334529968
+        "osm_id": 6543294
     },
     {
         "id": 781,
@@ -8126,7 +8126,7 @@
         "wilaya_code": "21",
         "wilaya_name_ascii": "Skikda",
         "wilaya_name": "سكيكدة",
-        "osm_id": 1332406799
+        "osm_id": 6543293
     },
     {
         "id": 764,
@@ -9567,7 +9567,7 @@
         "wilaya_code": "26",
         "wilaya_name_ascii": "Médéa",
         "wilaya_name": "المدية",
-        "osm_id": 6774284249
+        "osm_id": 2525270
     },
     {
         "id": 947,
@@ -9831,7 +9831,7 @@
         "wilaya_code": "26",
         "wilaya_name_ascii": "Médéa",
         "wilaya_name": "المدية",
-        "osm_id": 572565332
+        "osm_id": 2962878
     },
     {
         "id": 933,
@@ -10667,7 +10667,7 @@
         "wilaya_code": "28",
         "wilaya_name_ascii": "M'Sila",
         "wilaya_name": "المسيلة",
-        "osm_id": 1078380102
+        "osm_id": 6547232
     },
     {
         "id": 1007,
@@ -11360,7 +11360,7 @@
         "wilaya_code": "29",
         "wilaya_name_ascii": "Mascara",
         "wilaya_name": "معسكر",
-        "osm_id": 1043938781
+        "osm_id": 5581838
     },
     {
         "id": 1043,
@@ -11448,7 +11448,7 @@
         "wilaya_code": "29",
         "wilaya_name_ascii": "Mascara",
         "wilaya_name": "معسكر",
-        "osm_id": 1718120163
+        "osm_id": 6668178
     },
     {
         "id": 1069,
@@ -11569,7 +11569,7 @@
         "wilaya_code": "29",
         "wilaya_name_ascii": "Mascara",
         "wilaya_name": "معسكر",
-        "osm_id": 3295353478
+        "osm_id": 5348242
     },
     {
         "id": 1073,
@@ -11591,7 +11591,7 @@
         "wilaya_code": "29",
         "wilaya_name_ascii": "Mascara",
         "wilaya_name": "معسكر",
-        "osm_id": 442970184
+        "osm_id": 5349138
     },
     {
         "id": 1044,
@@ -11712,7 +11712,7 @@
         "wilaya_code": "31",
         "wilaya_name_ascii": "Oran",
         "wilaya_name": "وهران",
-        "osm_id": 4506956466
+        "osm_id": 2078700
     },
     {
         "id": 1127,
@@ -15397,7 +15397,7 @@
         "wilaya_code": "45",
         "wilaya_name_ascii": "Naâma",
         "wilaya_name": "النعامة",
-        "osm_id": 424101075
+        "osm_id": 6544121
     },
     {
         "id": 1452,
@@ -15507,7 +15507,7 @@
         "wilaya_code": "46",
         "wilaya_name_ascii": "Aïn Témouchent",
         "wilaya_name": "عين تيموشنت",
-        "osm_id": 6535203
+        "osm_id": 6535207
     },
     {
         "id": 1474,
