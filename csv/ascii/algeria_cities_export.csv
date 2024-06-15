@@ -33,7 +33,7 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 56,Sidi Abderrahmane,Tenes,02,Chlef
 57,Sidi Akkacha,Tenes,02,Chlef
 62,Tenes,Tenes,02,Chlef
-32,Beni  Bouattab,El Karimia,02,Chlef
+32,Beni Bouattab,El Karimia,02,Chlef
 42,El Karimia,El Karimia,02,Chlef
 44,Harchoun,El Karimia,02,Chlef
 36,Bouzeghaia,Zeboudja,02,Chlef
@@ -268,7 +268,7 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 301,Meftah,Meftah,09,Blida
 294,Chiffa,Mouzaia,09,Blida
 284,Ain Romana,Mouzaia,09,Blida
-303,Oued  Djer,El Affroun,09,Blida
+303,Oued Djer,El Affroun,09,Blida
 297,El-Affroun,El Affroun,09,Blida
 306,Ouled Yaich,Ouled Yaich,09,Blida
 295,Chrea,Ouled Yaich,09,Blida
@@ -791,10 +791,10 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 791,Ain Thrid,Tessala,22,Sidi Bel Abbès
 820,Sehala Thaoura,Tessala,22,Sidi Bel Abbès
 838,Tessala,Tessala,22,Sidi Bel Abbès
-796,Belarbi,Mostefa  Ben Brahim,22,Sidi Bel Abbès
-813,Mostefa  Ben Brahim,Mostefa  Ben Brahim,22,Sidi Bel Abbès
-839,Tilmouni,Mostefa  Ben Brahim,22,Sidi Bel Abbès
-840,Zerouala,Mostefa  Ben Brahim,22,Sidi Bel Abbès
+796,Belarbi,Mostefa Ben Brahim,22,Sidi Bel Abbès
+813,Mostefa Ben Brahim,Mostefa Ben Brahim,22,Sidi Bel Abbès
+839,Tilmouni,Mostefa Ben Brahim,22,Sidi Bel Abbès
+840,Zerouala,Mostefa Ben Brahim,22,Sidi Bel Abbès
 803,Dhaya,Telagh,22,Sidi Bel Abbès
 812,Mezaourou,Telagh,22,Sidi Bel Abbès
 835,Teghalimet,Telagh,22,Sidi Bel Abbès
