@@ -120,7 +120,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 02068,Main Sinfita,Main Sinfita,63,Zeboudja,Zeboudja,02,Chlef
 02069,Beni Ouazane,Beni Ouazene,52,Ouled Ben Abdelkader,Ouled Ben Abdelkader,02,Chlef
 02070,Breira,Breira,37,Breira,Beni Haoua,02,Chlef
-02071,Beni Bouatteb,Beni Bouateb,32,Beni  Bouattab,El Karimia,02,Chlef
+02071,Beni Bouatteb,Beni Bouateb,32,Beni Bouattab,El Karimia,02,Chlef
 02072,Chaabnia,Chaabnia,61,Taougrit,Taougrit,02,Chlef
 02073,Meddina,Meddina,46,Labiod Medjadja,Ouled Fares,02,Chlef
 02074,Ouled Berradjah,Ouled Berradjah,30,Ain Merane,Ain Merane,02,Chlef
@@ -157,7 +157,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 16061,Sidi Moussa,Route Dar Beida Sidi Moussa,40,Dahra,Taougrit,02,Chlef
 16115,El Marsa,Rue Principale El Marsa,43,El Marsa,El Marsa,02,Chlef
 26073,Sidi Ziane,Sidi Ziane Centre,59,Tadjena,Abou El Hassane,02,Chlef
-41042,Ouled Abbes,Cité Ouled  Abbes,51,Ouled Abbes,Oued Fodda,02,Chlef
+41042,Ouled Abbes,Cité Ouled Abbes,51,Ouled Abbes,Oued Fodda,02,Chlef
 45036,Sidi Moussa,Village Sidi Moussa,40,Dahra,Taougrit,02,Chlef
 48058,Ouled Bouali,Ouled Bouali,51,Ouled Abbes,Oued Fodda,02,Chlef
 03000,Laghouat,Laghouat,79,Laghouat,Laghouat,03,Laghouat
@@ -285,7 +285,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 12050,Ouled Naceur,Village Ouled Naceur,99,El Amiria,Sigus,04,Oum El Bouaghi
 14039,Ain Beida,Ain Beida,89,Ain Beida,Ain Beida,04,Oum El Bouaghi
 30019,Ain Beida,Route Nationale N°206,89,Ain Beida,Ain Beida,04,Oum El Bouaghi
-31039,Ain Beida,02 Cité Saad Ahmed  Ain Beida Oran,89,Ain Beida,Ain Beida,04,Oum El Bouaghi
+31039,Ain Beida,02 Cité Saad Ahmed Ain Beida Oran,89,Ain Beida,Ain Beida,04,Oum El Bouaghi
 34053,Ouled Zaid,Ouled Zaid,93,Ain M'lila,Ain M'lila,04,Oum El Bouaghi
 46028,Ain Beida,Ain Beida,89,Ain Beida,Ain Beida,04,Oum El Bouaghi
 05000,Batna,Cité Des 410 Logts Ex Ecotec Batna,123,Batna,Batna,05,Batna
@@ -422,7 +422,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 05132,Bouteraa Kermia,Bouteraa Kermia,163,Rahbat,Ras El Aioun,05,Batna
 05133,Tamesghit,Tamesghit,123,Batna,Batna,05,Batna
 05134,Batna Gare Routiere,Gare Routiere,123,Batna,Batna,05,Batna
-05135,Batna  E A A B,Ecole Militaire E A A B,123,Batna,Batna,05,Batna
+05135,Batna E A A B,Ecole Militaire E A A B,123,Batna,Batna,05,Batna
 05136,Berika 1ere Division Blindee,Berika Division Blindee,122,Barika,Barika,05,Batna
 05137,Batna Universite,Batna Universite,123,Batna,Batna,05,Batna
 05138,Seriana Eris,Eris Seriana,167,Seriana,Seriana,05,Batna
@@ -594,7 +594,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 39046,Akfadou,Cité Akfadou,182,Akfadou,Chemini,06,Béjaïa
 40016,El Hamma,El Hamma,184,Amizour,Amizour,06,Béjaïa
 46014,Souk El Tenine,Rue Ahmed Benchaib Moussa,215,Souk El Tenine,Souk El Tenine,06,Béjaïa
-46052,Sidi Said,Cité Sidi Said   El Maleh,208,M'cisna,Seddouk,06,Béjaïa
+46052,Sidi Said,Cité Sidi Said  El Maleh,208,M'cisna,Seddouk,06,Béjaïa
 07000,Biskra,Boulevard Emir Aek Biskra,233,Biskra,Biskra,07,Biskra
 07001,Biskra Star Melouk,Rue Zaatcha Biskra,233,Biskra,Biskra,07,Biskra
 07003,Tolga,Av 5 Juillet Tolga,261,Tolga,Tolga,07,Biskra
@@ -753,7 +753,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 09029,Guerrouaou,Guerrouaou,298,Guerrouaou,Boufarik,09,Blida
 09030,Hammam El Ouane,Hammam El Ouane,299,Hammam Elouane,Bougara,09,Blida
 09031,Khazrouna,Beni Mered,285,Beni Mered,Ouled Yaich,09,Blida
-09032,Oued Djer,Oued Djer,303,Oued  Djer,El Affroun,09,Blida
+09032,Oued Djer,Oued Djer,303,Oued Djer,El Affroun,09,Blida
 09033,Ouled Selama,Ouled Slama,305,Ouled Slama,Bougara,09,Blida
 09034,Sohane,Sohane,307,Souhane,Larbaa,09,Blida
 09035,Ahl El Oued Ethenia,Chiffa,294,Chiffa,Mouzaia,09,Blida
@@ -933,7 +933,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 11031,Teberbert,Teberbert,362,Tazrouk,Tazrouk,11,Tamanrasset
 11032,Tahifet,Tahifet,361,Tamanrasset,Tamanrasset,11,Tamanrasset
 11033,Indalag,Indalag,361,Tamanrasset,Tamanrasset,11,Tamanrasset
-11034,Tamanrasset Etablissement  Postal Itinerant 1,,361,Tamanrasset,Tamanrasset,11,Tamanrasset
+11034,Tamanrasset Etablissement Postal Itinerant 1,,361,Tamanrasset,Tamanrasset,11,Tamanrasset
 ,Tamanrasset Base Aerienne,Tamanrasset Base Aerienne,361,Tamanrasset,Tamanrasset,11,Tamanrasset
 ,Outoul Groupement Militaire,Outoul Groupement Militaire,361,Tamanrasset,Tamanrasset,11,Tamanrasset
 ,In Kouf Groupement Regional Gendarmerie,In Kouf Groupement Regional Gendarmerie,361,Tamanrasset,Tamanrasset,11,Tamanrasset
@@ -1124,7 +1124,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 13113,Sebdou Dermam,Sebdou Dermam,434,Sebdou,Sebdou,13,Tlemcen
 13114,Tlemcen Gare Routiere,Tlemcen Gare Routiere Aboutachfine,443,Tlemcen,Tlemcen,13,Tlemcen
 ,Ghenaina,Ghenaina,443,Tlemcen,Tlemcen,13,Tlemcen
-,Maghnia Matmore,Rue  0  Cité Matmor,423,Maghnia,Maghnia,13,Tlemcen
+,Maghnia Matmore,Rue 0 Cité Matmor,423,Maghnia,Maghnia,13,Tlemcen
 ,Tlemcen Agadir,Rue Menouar Omar Agadir,443,Tlemcen,Tlemcen,13,Tlemcen
 ,Maghnia Betaim,Route De Marsa Ben M'Hidi,423,Maghnia,Maghnia,13,Tlemcen
 ,Sidi Boudjenane,Route De Marsa Ben M'Hidi Souani,439,Souani,Bab El Assa,13,Tlemcen
@@ -1447,7 +1447,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 16216,Alger Gare Maritime,Gare Maritime,556,Alger Centre,Sidi M'hamed,16,Alger
 16217,El Biar Ministere De L'Industrie Et Des Mines,Ministere De L'Industrie Et Des Mines,580,El Biar,Bouzareah,16,Alger
 16218,El Biar Ministere Des Moudjahidine,Ministere Des Moudjahidine,580,El Biar,Bouzareah,16,Alger
-16229,Alger Centre Etablissement  Postal Itinerant 1,,556,Alger Centre,Sidi M'hamed,16,Alger
+16229,Alger Centre Etablissement Postal Itinerant 1,,556,Alger Centre,Sidi M'hamed,16,Alger
 ,Alger Amiraute,,572,Casbah,Bab El Oued,16,Alger
 ,Alger M.D.N (Ali Khodja),,580,El Biar,Bouzareah,16,Alger
 ,Alger Palais Du Gouvernement,,582,El Madania,Sidi M'hamed,16,Alger
@@ -1534,7 +1534,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 16225,Ain Benian Belle Vue,Ain Benian Belle Vue,554,Ain Benian,Cheraga,16,Alger
 16226,Chaibia 3216 Logements,Chaibia 3216 Logements,598,Ouled Chebel,Birtouta,16,Alger
 16227,Zeralda 1000 Logements,Zeralda 1000 Logements,610,Zeralda,Zeralda,16,Alger
-16230,Alger Ouest Etablissement  Postal Itinerant 1,,556,Alger Centre,Sidi M'hamed,16,Alger
+16230,Alger Ouest Etablissement Postal Itinerant 1,,556,Alger Centre,Sidi M'hamed,16,Alger
 16233,Rahmania 300 Logements,Rahmania 300 Logements,600,Rahmania,Zeralda,16,Alger
 16234,Ouled Belhadj,Ouled Belhadj,604,Sehaoula,Bir Mourad Rais,16,Alger
 16004,El Harrach,Rue Mohand Ait Mohand El Harrach,581,El Harrach,El Harrach,16,Alger
@@ -1603,7 +1603,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 16170,Ministere Des Affaires Etrangeres,Ministere Des Affaires Etrangeres,591,Kouba,Hussein Dey,16,Alger
 16174,Rouiba Enpei,B P N° 05 Enpei Rouiba,603,Rouiba,Rouiba,16,Alger
 16183,Reghaia G.I.R,Caserne Gir Reghaia,602,Reghaia,Rouiba,16,Alger
-16187,Bab Ezzouar 1  Aadl,Cité Aadl Bab Ezzouar 1,558,Bab Ezzouar,Dar El Beida,16,Alger
+16187,Bab Ezzouar 1 Aadl,Cité Aadl Bab Ezzouar 1,558,Bab Ezzouar,Dar El Beida,16,Alger
 16188,Djisr Kacentina Aadl,Cité Aadl Gu2 De Constantine,576,Djasr Kasentina,Bir Mourad Rais,16,Alger
 16189,Sidi Moussa El Rais,Rais Sidi Moussa,606,Sidi Moussa,Baraki,16,Alger
 16194,Bourouba Srfe,"Service Regional Des Finances Et Equipements, Bourouba",570,Bourouba,El Harrach,16,Alger
@@ -1784,7 +1784,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 18053,Beni Metrane,Beni Metrane,672,Taher,Taher,18,Jijel
 18054,El Gheriana,El Gheriana,673,Texenna,Texenna,18,Jijel
 18055,Harraten 05 Juillet,Harraten 05 Juillet,662,Jijel,Jijel,18,Jijel
-18056,Jijel Etablissement  Postal Itinerant 1,,662,Jijel,Jijel,18,Jijel
+18056,Jijel Etablissement Postal Itinerant 1,,662,Jijel,Jijel,18,Jijel
 22048,Emir Abdelkader,Cité Amir Aek,659,Emir Abdelkader,Taher,18,Jijel
 46037,Emir Abdelkader,Emir Abdelkader,659,Emir Abdelkader,Taher,18,Jijel
 19000,Setif,Rue 01/11/1954 Setif,729,Setif,Setif,19,Sétif
@@ -1816,7 +1816,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 19026,Guenzet,Guenzet,711,Guenzet,Guenzet,19,Sétif
 19027,Guidjel,Guidjel,712,Guidjel,Guidjel,19,Sétif
 19028,Maoklane,Maoklane,719,Maouaklane,Maoklane,19,Sétif
-19029,Ouled  Ali Ben Athmane,O.A.B.Athmane,705,Draa-Kebila,Hammam Guergour,19,Sétif
+19029,Ouled Ali Ben Athmane,O.A.B.Athmane,705,Draa-Kebila,Hammam Guergour,19,Sétif
 19030,Ouled Tebben,O.Tebben,725,Ouled Tebben,Salah Bey,19,Sétif
 19031,Tarfet,Tarfet,691,Beni Chebana,Beni Ourtilane,19,Sétif
 19032,Tittest,Titest,716,Harbil,Guenzet,19,Sétif
@@ -1987,7 +1987,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 20046,Morghad,Douar Morghad 20046,746,Sidi Ahmed,Ain El Hadjar,20,Saïda
 20047,Timetlas,Douar Timetlas 20047,746,Sidi Ahmed,Ain El Hadjar,20,Saïda
 20048,Oum Doud,Douar Oum Doud 20048,742,Moulay Larbi,Ain El Hadjar,20,Saïda
-20049,Sidi Boubekeur Gare Routiere,Sidi Boubekeur Gare   Sidi Boubekeur 20049,748,Sidi Boubekeur,Sidi Boubekeur,20,Saïda
+20049,Sidi Boubekeur Gare Routiere,Sidi Boubekeur Gare  Sidi Boubekeur 20049,748,Sidi Boubekeur,Sidi Boubekeur,20,Saïda
 20050,Saida Gare Routiere,Cité Salem 2 Saida 20050,745,Saida,Saida,20,Saïda
 20051,Balloul Gare Routiere,Balloul Gare Routiere,743,Ouled Brahim,Ouled Brahim,20,Saïda
 23005,Sidi Amar,Cité 19 Juin Sidi Amar,747,Sidi Amar,Sidi Boubekeur,20,Saïda
@@ -2091,7 +2091,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 22010,Hassi Zehana,Route Nle Vers Tlemcen,806,Hassi Zahana,Ben Badis,22,Sidi Bel Abbès
 22011,Marhoum,Rue Mohamed Boudiaf,809,Marhoum,Marhoum,22,Sidi Bel Abbès
 22012,Merine,Bvd Capitaine Abdelhadi,811,Merine,Merine,22,Sidi Bel Abbès
-22013,Mostefa Ben Brahim,Rue Diafi Habib,813,Mostefa  Ben Brahim,Mostefa  Ben Brahim,22,Sidi Bel Abbès
+22013,Mostefa Ben Brahim,Rue Diafi Habib,813,Mostefa Ben Brahim,Mostefa Ben Brahim,22,Sidi Bel Abbès
 22014,Sidi Ali Boussidi,Rue Sahraoui Kadour,823,Sidi Ali Boussidi,Sidi Ali Boussidi,22,Sidi Bel Abbès
 22015,Sidi Bel Abbes Adim Fatiha,Rue Adim Fatiha,824,Sidi Bel-Abbes,Sidi Bel Abbes,22,Sidi Bel Abbès
 22016,Sidi Bel Abbes El Wiam,El Wiaam Sidi Bel Abbes,824,Sidi Bel-Abbes,Sidi Bel Abbes,22,Sidi Bel Abbès
@@ -2101,7 +2101,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 22020,Sidi Lahssene,Route Nle Nâ°7,830,Sidi Lahcene,Sidi Lahcene,22,Sidi Bel Abbès
 22021,Tenira,Rue Toumi Lakhdar,837,Tenira,Tenira,22,Sidi Bel Abbès
 22022,Ain El Berd,Rue Chaib Djillali,789,Ain El Berd,Ain El Berd,22,Sidi Bel Abbès
-22023,Belarbi,Rue Des Freres Sassi,796,Belarbi,Mostefa  Ben Brahim,22,Sidi Bel Abbès
+22023,Belarbi,Rue Des Freres Sassi,796,Belarbi,Mostefa Ben Brahim,22,Sidi Bel Abbès
 22024,Lamtar,Route Nle Vers Tlemcen,807,Lamtar,Sidi Ali Boussidi,22,Sidi Bel Abbès
 22025,Mezaourou,Bvd Mohamed Khemisti,812,Mezaourou,Telagh,22,Sidi Bel Abbès
 22026,Moulay Slissen,Rue Bendahou Belahcen,814,Moulay Slissen,Moulay Slissen,22,Sidi Bel Abbès
@@ -2120,7 +2120,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 22041,Bir El Hemmam,Route Taghouraya,799,Bir El Hammam,Marhoum,22,Sidi Bel Abbès
 22042,Bouaiche,Bouaiche,824,Sidi Bel-Abbes,Sidi Bel Abbes,22,Sidi Bel Abbès
 22043,Boudjebaa El Bordj,Rue De 20 Logts,800,Boudjebaa El Bordj,Sfisef,22,Sidi Bel Abbès
-22044,Boumaad Tilmouni,Hai El Jadid,839,Tilmouni,Mostefa  Ben Brahim,22,Sidi Bel Abbès
+22044,Boumaad Tilmouni,Hai El Jadid,839,Tilmouni,Mostefa Ben Brahim,22,Sidi Bel Abbès
 22045,Chetouane,Chetouane,802,Chetouane Belaila,Ben Badis,22,Sidi Bel Abbès
 22046,Delahim,Delahim,828,Sidi Hamadouche,Ain El Berd,22,Sidi Bel Abbès
 22047,El Hacaiba,Rue Hadjri Djillali,804,El Hacaiba,Moulay Slissen,22,Sidi Bel Abbès
@@ -2143,7 +2143,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 22065,Tefessour,Rue Boucif Benabdallah,834,Tefessour,Merine,22,Sidi Bel Abbès
 22066,Teghalimet,Bvd Mohamed Khemisti,835,Teghalimet,Telagh,22,Sidi Bel Abbès
 22067,Telagh Mokdad Med,Route De Saida,836,Telagh,Telagh,22,Sidi Bel Abbès
-22068,Zerouala,Rue Ghares Elgoum Mekki,840,Zerouala,Mostefa  Ben Brahim,22,Sidi Bel Abbès
+22068,Zerouala,Rue Ghares Elgoum Mekki,840,Zerouala,Mostefa Ben Brahim,22,Sidi Bel Abbès
 22069,Ras El Ma Es Saada,Rue Des Marthyrs,818,Ras El Ma,Ras El Ma,22,Sidi Bel Abbès
 22070,Aouinettes,El Aouinette,792,Ain Tindamine,Moulay Slissen,22,Sidi Bel Abbès
 22071,Sidi Bel Abbes Beni Ameur,Hai Beni Ameur,824,Sidi Bel-Abbes,Sidi Bel Abbes,22,Sidi Bel Abbès
@@ -2159,13 +2159,13 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 22081,Sidi Bel Abbes Ecole De Police,Ecole De Police Tayebi Larbi,824,Sidi Bel-Abbes,Sidi Bel Abbes,22,Sidi Bel Abbès
 22082,Bordj Djaafar,Bordj Djaafer,822,Sidi Ali Benyoub,Sidi Ali Ben Youb,22,Sidi Bel Abbès
 22083,Louza Ben Achiba,Louza Ben Achiba,798,Benachiba Chelia,Tenira,22,Sidi Bel Abbès
-22084,Sidi Bel Abbes Campus  Universitaire,Campus  Universitaire,824,Sidi Bel-Abbes,Sidi Bel Abbes,22,Sidi Bel Abbès
+22084,Sidi Bel Abbes Campus Universitaire,Campus Universitaire,824,Sidi Bel-Abbes,Sidi Bel Abbes,22,Sidi Bel Abbès
 22085,Sfisef Hanifi Abdelkader,"Quartier 05 Juillet,Sfisef,Sidi Bel Abbes",821,Sfisef,Sfisef,22,Sidi Bel Abbès
 22086,Sidi Bel Abbes Cité Universitaire Ibn Rochd,"Residence Universitaire Ibn Rochd,Sidi Bel Abbes",824,Sidi Bel-Abbes,Sidi Bel Abbes,22,Sidi Bel Abbès
 22087,Beloualadi,La Localite De Beloueladi,794,Amarnas,Sidi Lahcene,22,Sidi Bel Abbès
 22088,Sidi Bel Abbes 11 Decembre,"Cité 200 Logements Azouz, Sidi Djillali",824,Sidi Bel-Abbes,Sidi Bel Abbes,22,Sidi Bel Abbès
 22089,Titane Yahia,Sud De La Wilaya De Sidi Bel Abbes,815,Oued Sebaa,Ras El Ma,22,Sidi Bel Abbès
-22090,Zelifa,Zelifa,840,Zerouala,Mostefa  Ben Brahim,22,Sidi Bel Abbès
+22090,Zelifa,Zelifa,840,Zerouala,Mostefa Ben Brahim,22,Sidi Bel Abbès
 22091,Ouled Bendida,Ouled Bendida,801,Boukhanefis,Sidi Ali Ben Youb,22,Sidi Bel Abbès
 ,Ras El Ma Terre,Bp 170 Ras El Ma,818,Ras El Ma,Ras El Ma,22,Sidi Bel Abbès
 ,Sidi Bel Abbes Eassm Terre,Bp 62 Ecole De Sante Militaire,824,Sidi Bel-Abbes,Sidi Bel Abbes,22,Sidi Bel Abbès
@@ -2296,13 +2296,13 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 25007,Constantine Belouizdad,14 Bd Belouizdad,891,Constantine,Constantine,25,Constantine
 25008,Constantine Cité 20 Aout 55,Cité 20 Aout 1955,891,Constantine,Constantine,25,Constantine
 25009,Constantine Naoui Hacene,Rue Chebli Mohamed,891,Constantine,Constantine,25,Constantine
-25010,Constantine Ben  Abderrahmane Zouaoui,Rue Karboua Abdelhamid,891,Constantine,Constantine,25,Constantine
+25010,Constantine Ben Abderrahmane Zouaoui,Rue Karboua Abdelhamid,891,Constantine,Constantine,25,Constantine
 25011,El Khroub Amar Djeffal,Cité 1013 Logts,893,El Khroub,El Khroub,25,Constantine
 25012,El Khroub Rabah Djeddou,Cité 1013 Logts Complexe Ptt,893,El Khroub,El Khroub,25,Constantine
 25013,Hamma Bouziane,Rue Nationale Houari Boumediane,894,Hamma Bouziane,Hamma Bouziane,25,Constantine
 25014,Zighoud Youcef,Rue De L'Independance,898,Zighoud Youcef,Zighoud Youcef,25,Constantine
 25015,Ain Abid,Rue Chettah Abderahmane N°8,887,Ain Abid,Ain Abid,25,Constantine
-25016,Constantine Ali Mendjli,Cité 329 Logts   Ali Mendjeli,891,Constantine,Constantine,25,Constantine
+25016,Constantine Ali Mendjli,Cité 329 Logts  Ali Mendjeli,891,Constantine,Constantine,25,Constantine
 25017,Constantine Ben Cherif Mohamed Salah,Rue Kaddour Boumedous,891,Constantine,Constantine,25,Constantine
 25018,Constantine Cité Des Muriers,Cité Des Muriers,891,Constantine,Constantine,25,Constantine
 25019,Constantine Cité Boussouf,Bt C N 18 Cité Boussouf,891,Constantine,Constantine,25,Constantine
@@ -2333,7 +2333,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 25045,Kehalcha Kebar,Kehalcha Kebbar,887,Ain Abid,Ain Abid,25,Constantine
 25046,Kesar Leklal,Kesara Leklal,892,Didouche Mourad,Hamma Bouziane,25,Constantine
 25047,Lamaamra 20 Aout 55,Lamamra 20 Aout 1955,887,Ain Abid,Ain Abid,25,Constantine
-25048,Lembleche  Darsouni Said,Lambleche,893,El Khroub,El Khroub,25,Constantine
+25048,Lembleche Darsouni Said,Lambleche,893,El Khroub,El Khroub,25,Constantine
 25049,Ouled Rahmoune Gare,Ouled Rahmoune,897,Ouled Rahmoun,El Khroub,25,Constantine
 25051,Salah Derradji,Salah Derrdji,893,El Khroub,El Khroub,25,Constantine
 25052,Sidi Larbi,Sidi Larbi,898,Zighoud Youcef,Zighoud Youcef,25,Constantine
@@ -2446,7 +2446,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 26088,Medea Residence Universitaire 2 000 Lits,Pole Universitaire Yahia Fares Medea,931,Medea,Medea,26,Médéa
 26089,Beni Slimane Hachemaoui Messaoud,,905,Beni Slimane,Beni Slimane,26,Médéa
 26090,Medea Rouis Bachir,,931,Medea,Medea,26,Médéa
-,Berrouaghia Terre,Ecole D'Application De Defense Aerienne Du Territoire  Berrouaghia,906,Berrouaghia,Berrouaghia,26,Médéa
+,Berrouaghia Terre,Ecole D'Application De Defense Aerienne Du Territoire Berrouaghia,906,Berrouaghia,Berrouaghia,26,Médéa
 27000,Mostaganem,Square Boudjemaa Mohamed,979,Mostaganem,Mostaganem,27,Mostaganem
 27001,Ain Tedeles,Rue De L'Hopital,967,Ain-Tedles,Ain Tedeles,27,Mostaganem
 27003,Bouguirat,Rue Gacem Abdellah,969,Bouguirat,Bouguirat,27,Mostaganem
@@ -2706,8 +2706,8 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 32031,Sidi Slimane,Sidi Slimane,1050,Bouhanifia,Bouhanifia,29,Mascara
 34057,Selatna,Selatna,1069,Mascara,Mascara,29,Mascara
 38028,Sidi Slimane,Rue Med Boudiaf,1050,Bouhanifia,Bouhanifia,29,Mascara
-41030,El Bordj,Cité El  Bordj,1052,El Bordj,El Bordj,29,Mascara
-30000,Ouargla,Route De Ghardaia   Ouargla,1101,Ouargla,Ouargla,30,Ouargla
+41030,El Bordj,Cité El Bordj,1052,El Bordj,El Bordj,29,Mascara
+30000,Ouargla,Route De Ghardaia  Ouargla,1101,Ouargla,Ouargla,30,Ouargla
 30001,Hassi Messaoud,Route Rouabeh Messaoud,1096,Hassi Messaoud,Hassi Messaoud,30,Ouargla
 30007,Hassi Messaoud Emir Aek,Cité Bouamama Hmd,1096,Hassi Messaoud,Hassi Messaoud,30,Ouargla
 30008,Hassi Messaoud Amirouche,Cité 1800 Logts Hmd,1096,Hassi Messaoud,Hassi Messaoud,30,Ouargla
@@ -2740,69 +2740,69 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 ,Ouargla 4e R.M,Route Nationale Nâ°206,1101,Ouargla,Ouargla,30,Ouargla
 ,Ouargla Dras 4,Oeuvres Sociale Dras 4,1101,Ouargla,Ouargla,30,Ouargla
 39018,Sidi Amrane,Rue De L'Apc,1101,Ouargla,Ouargla,30,Ouargla
-31000,Oran,Place Maghreb  Oran,1131,Oran,Oran,31,Oran
-31001,Bir El Djir Cdt Guerrab Med,Bir El Djir   Oran,1116,Bir El Djir,Bir El Djir,31,Oran
-31002,Oran Houha Mohamed,Bd Mascara  Oran,1131,Oran,Oran,31,Oran
-31003,Oran Saim Mohamed,Ave Saim Moahmed  Oran,1131,Oran,Oran,31,Oran
-31004,Arzew,Ave France Fanon  Arzew,1113,Arzew,Arzew,31,Oran
-31005,Es Senia,Rue Zaghloul  Es Senia,1123,Es Senia,Es Senia,31,Oran
-31006,Es Senia Zerbani Mohamed,"Route Es Senia ,En Face Ensep  Es Senia Oran ",1123,Es Senia,Es Senia,31,Oran
-31007,Oran El Makkari,Av Hammou Mokhtar  Oran,1131,Oran,Oran,31,Oran
-31008,Oran El Moudjahed,Rue Larbi Benmhidi  Oran,1131,Oran,Oran,31,Oran
-31009,Oran Emir Khaled,Ave Emir Khaled  Oran,1131,Oran,Oran,31,Oran
-31010,Oran Es Sabbah,Cité 789 Logts  Hai Esabah   Oran,1131,Oran,Oran,31,Oran
-31011,Oran Hai Badr,Rue Boushaba Abdellah  Oran,1131,Oran,Oran,31,Oran
+31000,Oran,Place Maghreb Oran,1131,Oran,Oran,31,Oran
+31001,Bir El Djir Cdt Guerrab Med,Bir El Djir  Oran,1116,Bir El Djir,Bir El Djir,31,Oran
+31002,Oran Houha Mohamed,Bd Mascara Oran,1131,Oran,Oran,31,Oran
+31003,Oran Saim Mohamed,Ave Saim Moahmed Oran,1131,Oran,Oran,31,Oran
+31004,Arzew,Ave France Fanon Arzew,1113,Arzew,Arzew,31,Oran
+31005,Es Senia,Rue Zaghloul Es Senia,1123,Es Senia,Es Senia,31,Oran
+31006,Es Senia Zerbani Mohamed,"Route Es Senia ,En Face Ensep Es Senia Oran",1123,Es Senia,Es Senia,31,Oran
+31007,Oran El Makkari,Av Hammou Mokhtar Oran,1131,Oran,Oran,31,Oran
+31008,Oran El Moudjahed,Rue Larbi Benmhidi Oran,1131,Oran,Oran,31,Oran
+31009,Oran Emir Khaled,Ave Emir Khaled Oran,1131,Oran,Oran,31,Oran
+31010,Oran Es Sabbah,Cité 789 Logts Hai Esabah  Oran,1131,Oran,Oran,31,Oran
+31011,Oran Hai Badr,Rue Boushaba Abdellah Oran,1131,Oran,Oran,31,Oran
 31012,Oran Oussama,Rue Pigrify Boulanger,1131,Oran,Oran,31,Oran
-31013,Oran Seddikia,25 Av D'Alcool  Oran,1131,Oran,Oran,31,Oran
-31014,Ain El Turk,Place 1er Novembre  Ain El Turk,1112,Ain Turk,Ain Turk,31,Oran
-31015,Bettioua,Ave Emir Aek  Bettioua,1115,Bethioua,Bethioua,31,Oran
+31013,Oran Seddikia,25 Av D'Alcool Oran,1131,Oran,Oran,31,Oran
+31014,Ain El Turk,Place 1er Novembre Ain El Turk,1112,Ain Turk,Ain Turk,31,Oran
+31015,Bettioua,Ave Emir Aek Bettioua,1115,Bethioua,Bethioua,31,Oran
 31016,Bou Tlelis,Bd Mohamed Khemisti,1119,Boutlelis,Boutlelis,31,Oran
-31017,Gdyel,Rue Hamou Boutlelis  Gdyel,1124,Gdyel,Gdyel,31,Oran
-31018,Gdyel Ahmed Zabana,Rue Emir Aek  Gdyel,1124,Gdyel,Gdyel,31,Oran
-31019,Mers El Kebir,Rue Hamou Boutlelis  Mers El Kebir,1129,Mers El Kebir,Ain Turk,31,Oran
-31020,Oran Imam El Houari,12 Rue Khedim Mustapha  Oran,1131,Oran,Oran,31,Oran
-31021,Oran Sidi El Bachir,05 Rue Gafaiti Kerzazi  Oran,1131,Oran,Oran,31,Oran
+31017,Gdyel,Rue Hamou Boutlelis Gdyel,1124,Gdyel,Gdyel,31,Oran
+31018,Gdyel Ahmed Zabana,Rue Emir Aek Gdyel,1124,Gdyel,Gdyel,31,Oran
+31019,Mers El Kebir,Rue Hamou Boutlelis Mers El Kebir,1129,Mers El Kebir,Ain Turk,31,Oran
+31020,Oran Imam El Houari,12 Rue Khedim Mustapha Oran,1131,Oran,Oran,31,Oran
+31021,Oran Sidi El Bachir,05 Rue Gafaiti Kerzazi Oran,1131,Oran,Oran,31,Oran
 31022,Akid Abbes,24 Rue Milinot Akid Abbes,1112,Ain Turk,Ain Turk,31,Oran
-31023,Bir El Djir,Bir El Djir Centre  Bir El Djir,1116,Bir El Djir,Bir El Djir,31,Oran
-31024,Boufatis,Rue Principale  Boufatis,1117,Boufatis,Oued Tlelat,31,Oran
-31025,Bou Sfer,Rue Benamar Miloud  Bousfer,1118,Bousfer,Ain Turk,31,Oran
-31026,El Kerma,Hai Zeghloul  El Kerma,1122,El Kerma,Es Senia,31,Oran
-31027,Hassiane Ettoual,Route Nationa  Hassiane Ettoual,1114,Ben Freha,Gdyel,31,Oran
-31028,Hassi Bounif,Route Nationale  Hassi Bounif,1126,Hassi Bounif,Bir El Djir,31,Oran
+31023,Bir El Djir,Bir El Djir Centre Bir El Djir,1116,Bir El Djir,Bir El Djir,31,Oran
+31024,Boufatis,Rue Principale Boufatis,1117,Boufatis,Oued Tlelat,31,Oran
+31025,Bou Sfer,Rue Benamar Miloud Bousfer,1118,Bousfer,Ain Turk,31,Oran
+31026,El Kerma,Hai Zeghloul El Kerma,1122,El Kerma,Es Senia,31,Oran
+31027,Hassiane Ettoual,Route Nationa Hassiane Ettoual,1114,Ben Freha,Gdyel,31,Oran
+31028,Hassi Bounif,Route Nationale Hassi Bounif,1126,Hassi Bounif,Bir El Djir,31,Oran
 31029,Khaled Ibn El Oualid,Hai Khaled Ibn Walid,1126,Hassi Bounif,Bir El Djir,31,Oran
-31030,Mers El Hadjadj,Rue De La Place  Mers El Hadjadj,1128,Marsat El Hadjadj,Bethioua,31,Oran
-31031,Misserghine,Rue Emir Aek  Misserghine,1130,Messerghin,Boutlelis,31,Oran
-31032,Oran Ahmed Medeghri,Tire Au Pistolet  Oran,1131,Oran,Oran,31,Oran
-31033,Oran El Feth,Cote Des Amandiers  Oran,1131,Oran,Oran,31,Oran
-31034,Oran El Hamri,Rue De Amandiers  Oran,1131,Oran,Oran,31,Oran
+31030,Mers El Hadjadj,Rue De La Place Mers El Hadjadj,1128,Marsat El Hadjadj,Bethioua,31,Oran
+31031,Misserghine,Rue Emir Aek Misserghine,1130,Messerghin,Boutlelis,31,Oran
+31032,Oran Ahmed Medeghri,Tire Au Pistolet Oran,1131,Oran,Oran,31,Oran
+31033,Oran El Feth,Cote Des Amandiers Oran,1131,Oran,Oran,31,Oran
+31034,Oran El Hamri,Rue De Amandiers Oran,1131,Oran,Oran,31,Oran
 31035,Oran El Marsa,Port D'Oran,1131,Oran,Oran,31,Oran
 31036,Oran Hai Bouamama,Hai Bouamama Er Pont Albin,1131,Oran,Oran,31,Oran
-31037,Oued Tlelat,Rue Gourine Aek  Oued Tlilet,1132,Oued Tlelat,Oued Tlelat,31,Oran
-31038,Sidi Chami,Rue Benzer4jeb  Sidi Chami,1134,Sidi Chami,Es Senia,31,Oran
-31040,Ain El Bya,Rue Khelifa Mohamed  Ain Bya,1110,Ain Biya,Bethioua,31,Oran
-31041,Arzew Emir Aek,Hai Emir Aek  Arzew,1113,Arzew,Arzew,31,Oran
-31042,Bendaoud,Hai Bendaoud  Bir El Djir,1116,Bir El Djir,Bir El Djir,31,Oran
-31043,El Ancor,03 Rue Colonel Othmane  El Ancor,1120,El Ancor,Ain Turk,31,Oran
-31044,El Mahgoun,12 Rue Rahmouni Nacer  El Mohgoun,1113,Arzew,Arzew,31,Oran
-31045,El Minzah,06 Rue Zirout Youcef  El Minzah,1131,Oran,Oran,31,Oran
+31037,Oued Tlelat,Rue Gourine Aek Oued Tlilet,1132,Oued Tlelat,Oued Tlelat,31,Oran
+31038,Sidi Chami,Rue Benzer4jeb Sidi Chami,1134,Sidi Chami,Es Senia,31,Oran
+31040,Ain El Bya,Rue Khelifa Mohamed Ain Bya,1110,Ain Biya,Bethioua,31,Oran
+31041,Arzew Emir Aek,Hai Emir Aek Arzew,1113,Arzew,Arzew,31,Oran
+31042,Bendaoud,Hai Bendaoud Bir El Djir,1116,Bir El Djir,Bir El Djir,31,Oran
+31043,El Ancor,03 Rue Colonel Othmane El Ancor,1120,El Ancor,Ain Turk,31,Oran
+31044,El Mahgoun,12 Rue Rahmouni Nacer El Mohgoun,1113,Arzew,Arzew,31,Oran
+31045,El Minzah,06 Rue Zirout Youcef El Minzah,1131,Oran,Oran,31,Oran
 31046,Hai Chahid Mahmoud,Hai Chahid Mahmoud Hassi Bounif,1127,Hassi Mefsoukh,Gdyel,31,Oran
 31047,Hai Emir Abdelkader,Hai Emir Aek,1131,Oran,Oran,31,Oran
-31048,Hassi Ameur,Route Nationale  Hassi Ameur,1126,Hassi Bounif,Bir El Djir,31,Oran
+31048,Hassi Ameur,Route Nationale Hassi Ameur,1126,Hassi Bounif,Bir El Djir,31,Oran
 31049,Hassi Ben Okba,Hassi Benokba,1125,Hassi Ben Okba,Bir El Djir,31,Oran
-31050,Hassi Mefsoukh,Rue Emir Aek  Hassi Mefsoukh,1127,Hassi Mefsoukh,Gdyel,31,Oran
+31050,Hassi Mefsoukh,Rue Emir Aek Hassi Mefsoukh,1127,Hassi Mefsoukh,Gdyel,31,Oran
 31052,Kristel,Kristel,1124,Gdyel,Gdyel,31,Oran
 31053,Naib,Douar Naib,1119,Boutlelis,Boutlelis,31,Oran
-31054,Oran C.Des  Enseignants,Hai Khemisti 672 Logts  Oran,1131,Oran,Oran,31,Oran
-31055,Oran Dar Beida,Cité 880 Logts  Dar Beida,1131,Oran,Oran,31,Oran
-31056,Oran Ibn Rochd,Cité 20 Aout Bt C8  Usto,1131,Oran,Oran,31,Oran
+31054,Oran C.Des Enseignants,Hai Khemisti 672 Logts Oran,1131,Oran,Oran,31,Oran
+31055,Oran Dar Beida,Cité 880 Logts Dar Beida,1131,Oran,Oran,31,Oran
+31056,Oran Ibn Rochd,Cité 20 Aout Bt C8 Usto,1131,Oran,Oran,31,Oran
 31057,Oran Izidi Mohamed,"1180 Logts ,Bt04b Maravale",1131,Oran,Oran,31,Oran
 31058,Sidi Benyebka,Sidi Benyebka,1133,Sidi Ben Yebka,Arzew,31,Oran
 31059,Ain Karma,Localite Ain Kerma,1111,Ain Kerma,Boutlelis,31,Oran
 31060,Akid Othmane,Hai Akid Othmane,1113,Arzew,Arzew,31,Oran
 31061,Araba,Douar Araba,1115,Bethioua,Bethioua,31,Oran
 31062,Ayaida,Douar Ayaida,1110,Ain Biya,Bethioua,31,Oran
-31063,Benfreha,Rue Principale  Benfreha,1114,Ben Freha,Gdyel,31,Oran
-31064,Bou Sfer Plage,Bousfer Plage   Bousfer   Oran,1118,Bousfer,Ain Turk,31,Oran
+31063,Benfreha,Rue Principale Benfreha,1114,Ben Freha,Gdyel,31,Oran
+31064,Bou Sfer Plage,Bousfer Plage  Bousfer  Oran,1118,Bousfer,Ain Turk,31,Oran
 31065,Chairia,Douar Chairia,1110,Ain Biya,Bethioua,31,Oran
 31067,Dadayoum,Douar Dadayoum,1129,Mers El Kebir,Ain Turk,31,Oran
 31068,Djefafla,Douar Djefafla,1128,Marsat El Hadjadj,Bethioua,31,Oran
@@ -2812,37 +2812,37 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 31072,Fellaoussene A.Ramdane,Fellaoucene Avdelmalek Ramdane,1118,Bousfer,Ain Turk,31,Oran
 31073,Gotni,Douar El Gotni,1117,Boufatis,Oued Tlelat,31,Oran
 31074,Granine,Douar Granine,1115,Bethioua,Bethioua,31,Oran
-31075,Hai El Amel,Hai El Amel   El Karma  Oran,1122,El Kerma,Es Senia,31,Oran
+31075,Hai El Amel,Hai El Amel  El Karma Oran,1122,El Kerma,Es Senia,31,Oran
 31076,Hassasna,Douar Hassasna,1128,Marsat El Hadjadj,Bethioua,31,Oran
 31077,Kehailia,Douar Kehailia,1135,Tafraoui,Oued Tlelat,31,Oran
 31079,Menatsia,Douar Menatsia,1114,Ben Freha,Gdyel,31,Oran
 31080,Rabah,Hai Rabah,1130,Messerghin,Boutlelis,31,Oran
 31083,Sidi Maarouf,Hai Sidi Maarouf,1134,Sidi Chami,Es Senia,31,Oran
 31084,Tafaraoui,Localite Tafraoui,1135,Tafraoui,Oued Tlelat,31,Oran
-31085,Oran Achaba Hanifi,Cité 1500 Logts Usto   Oran,1131,Oran,Oran,31,Oran
+31085,Oran Achaba Hanifi,Cité 1500 Logts Usto  Oran,1131,Oran,Oran,31,Oran
 31086,Misserghine Hai Zabana,Misserghine,1130,Messerghin,Boutlelis,31,Oran
-31087,Oran Wilaya,Ahmed Benabdelmalek  Wilaya,1131,Oran,Oran,31,Oran
+31087,Oran Wilaya,Ahmed Benabdelmalek Wilaya,1131,Oran,Oran,31,Oran
 31088,Es Senia Kara,Localite Es Senia Kara,1123,Es Senia,Es Senia,31,Oran
 31089,Bouyakour,Localite Bouyakour,1119,Boutlelis,Boutlelis,31,Oran
 31090,Mers El Hadjadj Esalam,Localite Mers El Hadjadj,1128,Marsat El Hadjadj,Bethioua,31,Oran
 31091,Arrarsa,Localite Arrasa,1115,Bethioua,Bethioua,31,Oran
-31092,Oran Ibn Sina,Av Sidi Chahmi   Oran,1131,Oran,Oran,31,Oran
-31093,Hai Akid Lotfi,Hai Akkid Lotfi   Oran,1131,Oran,Oran,31,Oran
-31094,Senia 200 Logts,Localite 200logts   Oran,1123,Es Senia,Es Senia,31,Oran
-31095,Hai El Yasmine,Hai El Yasmine  Oran,1131,Oran,Oran,31,Oran
-31096,Hay Fellaoucene,Citã‰ Felloucene   El Barki   Oran,1131,Oran,Oran,31,Oran
+31092,Oran Ibn Sina,Av Sidi Chahmi  Oran,1131,Oran,Oran,31,Oran
+31093,Hai Akid Lotfi,Hai Akkid Lotfi  Oran,1131,Oran,Oran,31,Oran
+31094,Senia 200 Logts,Localite 200logts  Oran,1123,Es Senia,Es Senia,31,Oran
+31095,Hai El Yasmine,Hai El Yasmine Oran,1131,Oran,Oran,31,Oran
+31096,Hay Fellaoucene,Citã‰ Felloucene  El Barki  Oran,1131,Oran,Oran,31,Oran
 31097,Murdjajo Zda3 (Apm),Zone De E Defance Aerienne(Zda3) Les Mots De Murdajadjo Â°,1131,Oran,Oran,31,Oran
 31098,Sidi Ghalem,Sidi Ghalem,1135,Tafraoui,Oued Tlelat,31,Oran
 31099,Oued Tlelat 1er Novembre,Hai 500logts Oued Tlelat,1132,Oued Tlelat,Oued Tlelat,31,Oran
-31100,Oran Aadl 1 063 Logements,Cité Aadl 1063 Logts  Hai Es Sabah   Oran,1131,Oran,Oran,31,Oran
-31101,Oran Benzarga Houari,25 Rue Khiali Bensalem Dae El Beida  Oran,1131,Oran,Oran,31,Oran
-31102,Oran Benbassal Benaouda,Pole Universitaire  Bir El Djir,1131,Oran,Oran,31,Oran
+31100,Oran Aadl 1 063 Logements,Cité Aadl 1063 Logts Hai Es Sabah  Oran,1131,Oran,Oran,31,Oran
+31101,Oran Benzarga Houari,25 Rue Khiali Bensalem Dae El Beida Oran,1131,Oran,Oran,31,Oran
+31102,Oran Benbassal Benaouda,Pole Universitaire Bir El Djir,1131,Oran,Oran,31,Oran
 31103,Hamou Ali,Hamou Ali,1135,Tafraoui,Oued Tlelat,31,Oran
 31104,Oran Belle Vue,Hai Khemisti Oran,1131,Oran,Oran,31,Oran
 31105,El Mahgoun 11 Decembre 1960,850 Logements Bat N° 03 El Mahgoun Arzew,1113,Arzew,Arzew,31,Oran
-31106,Oran Ehu 1 Er Novembre,Hopital Hai Sabah   Oran,1131,Oran,Oran,31,Oran
-31107,Oran Chu,Hopital Chu Plateau   Oran,1131,Oran,Oran,31,Oran
-31108,Es Senia El Matar,Aeroport Es Senia   Oran,1123,Es Senia,Es Senia,31,Oran
+31106,Oran Ehu 1 Er Novembre,Hopital Hai Sabah  Oran,1131,Oran,Oran,31,Oran
+31107,Oran Chu,Hopital Chu Plateau  Oran,1131,Oran,Oran,31,Oran
+31108,Es Senia El Matar,Aeroport Es Senia  Oran,1123,Es Senia,Es Senia,31,Oran
 31109,Oued Telilat Zaoui Azzedine,La Nouvelle Cité 3000 Logements Oued Tlelat,1132,Oued Tlelat,Oued Tlelat,31,Oran
 31110,En Nedjma Benyakhou Ali Fethi,"Cité El Nedjma 07 Eme Tranche ,Commune De Sidi Chami",1134,Sidi Chami,Es Senia,31,Oran
 31111,Bethioua Benmlouka Brahim,Chef Lieu De La Commune Bethioua,1115,Bethioua,Bethioua,31,Oran
@@ -2853,25 +2853,25 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 31116,Es Senia Universite,Es Senia Universite,1123,Es Senia,Es Senia,31,Oran
 31117,Es Senia Ain Beida Aadl,Cité Aadl Ain Beida,1123,Es Senia,Es Senia,31,Oran
 31118,Oran Etablissement Postal Itinerant 1,,1131,Oran,Oran,31,Oran
-,Ain Beida (200),Caserne Militaire   Es Senia  Oran,1123,Es Senia,Es Senia,31,Oran
-,Arzew (Terre 2),Base Militaire Arzew   Oran,1113,Arzew,Arzew,31,Oran
-,Arzew (Terre),Base Militaire Arzew   Oran,1113,Arzew,Arzew,31,Oran
-,Bou Sfer (Air),Base Militaire  Bousfer  Oran,1118,Bousfer,Ain Turk,31,Oran
-,Mers El Kebir(Marine),Base Maritime Mers El Kebir   Oran,1129,Mers El Kebir,Ain Turk,31,Oran
-,Oran Ahmed Medeghri (Air),Caserne Militaire   Oran,1131,Oran,Oran,31,Oran
-,Oran Ahmed Medeghri (Terre 2),Caserne Militaire   Oran,1131,Oran,Oran,31,Oran
-,Ain Tessa,Ain Tassa   Boutlelis  Oran,1111,Ain Kerma,Boutlelis,31,Oran
-,Arzew Ahmed Zabana,Cité Ahmed Zabana   Oran,1113,Arzew,Arzew,31,Oran
-,Arzew Khelifa Benmahmoud,Complexe   Arzew   Oran,1113,Arzew,Arzew,31,Oran
-,Hai Wiaam,Hai Wiaam  Misserguine   Oran,1130,Messerghin,Boutlelis,31,Oran
-,Oran Fellaoussene,Hanifi Mohamed   Oran Fellaoucene,1131,Oran,Oran,31,Oran
+,Ain Beida (200),Caserne Militaire  Es Senia Oran,1123,Es Senia,Es Senia,31,Oran
+,Arzew (Terre 2),Base Militaire Arzew  Oran,1113,Arzew,Arzew,31,Oran
+,Arzew (Terre),Base Militaire Arzew  Oran,1113,Arzew,Arzew,31,Oran
+,Bou Sfer (Air),Base Militaire Bousfer Oran,1118,Bousfer,Ain Turk,31,Oran
+,Mers El Kebir(Marine),Base Maritime Mers El Kebir  Oran,1129,Mers El Kebir,Ain Turk,31,Oran
+,Oran Ahmed Medeghri (Air),Caserne Militaire  Oran,1131,Oran,Oran,31,Oran
+,Oran Ahmed Medeghri (Terre 2),Caserne Militaire  Oran,1131,Oran,Oran,31,Oran
+,Ain Tessa,Ain Tassa  Boutlelis Oran,1111,Ain Kerma,Boutlelis,31,Oran
+,Arzew Ahmed Zabana,Cité Ahmed Zabana  Oran,1113,Arzew,Arzew,31,Oran
+,Arzew Khelifa Benmahmoud,Complexe  Arzew  Oran,1113,Arzew,Arzew,31,Oran
+,Hai Wiaam,Hai Wiaam Misserguine  Oran,1130,Messerghin,Boutlelis,31,Oran
+,Oran Fellaoussene,Hanifi Mohamed  Oran Fellaoucene,1131,Oran,Oran,31,Oran
 ,Oran Lafontaine,Cité Jean La Fantaine Oran,1131,Oran,Oran,31,Oran
-,Oran Mekki Khelifa,Cité Les Lauriers Roses  Maravale Oran,1131,Oran,Oran,31,Oran
-,Oran Usto,Universite Usto  Oran,1131,Oran,Oran,31,Oran
-,Khedim Mustapha,Bd Stalingrad   Oran,1131,Oran,Oran,31,Oran
-,Senia Le Volontaire,Cité Universite   Es Senia   Oran,1123,Es Senia,Es Senia,31,Oran
-,Rusto Zeddour Brahim,Cité Usto  Universite C1   Oran,1131,Oran,Oran,31,Oran
-,Bendaoud 2 Ben Yamina Mohamed,Ben Daouad   Bir El Djir   Oran,1116,Bir El Djir,Bir El Djir,31,Oran
+,Oran Mekki Khelifa,Cité Les Lauriers Roses Maravale Oran,1131,Oran,Oran,31,Oran
+,Oran Usto,Universite Usto Oran,1131,Oran,Oran,31,Oran
+,Khedim Mustapha,Bd Stalingrad  Oran,1131,Oran,Oran,31,Oran
+,Senia Le Volontaire,Cité Universite  Es Senia  Oran,1123,Es Senia,Es Senia,31,Oran
+,Rusto Zeddour Brahim,Cité Usto Universite C1  Oran,1131,Oran,Oran,31,Oran
+,Bendaoud 2 Ben Yamina Mohamed,Ben Daouad  Bir El Djir  Oran,1116,Bir El Djir,Bir El Djir,31,Oran
 34039,Bendaoud,Bendaoud,1116,Bir El Djir,Bir El Djir,31,Oran
 46021,Hassasna,Rue Si Omar,1128,Marsat El Hadjadj,Bethioua,31,Oran
 48037,Bendaoud,Bendaoud,1116,Bir El Djir,Bir El Djir,31,Oran
@@ -2917,21 +2917,21 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 32041,Bougtob Abdelli Cheikh,,1139,Bougtoub,Bougtoub,32,El Bayadh
 32042,El Abiodh Sidi Cheikh Ben Aissa Talia,,1145,Labiodh Sidi Cheikh,Labiodh Sidi Cheikh,32,El Bayadh
 43060,Sidi Khelifa,Sidi Khelifa,1147,El Kheiter,Bougtoub,32,El Bayadh
-33000,Illizi,Illizi   Centre Ville,1162,Illizi,Illizi,33,Illizi
-33001,In Amenas,In Amenas  Centre Ville,1163,In Amenas,In Amenas,33,Illizi
-33003,Bordj Omar Driss,Bordj Omar Driss  Centre Ville,1159,Bordj Omar Driss,In Amenas,33,Illizi
-33004,Deb Deb,Deb Deb  Centre Ville,1160,Debdeb,In Amenas,33,Illizi
+33000,Illizi,Illizi  Centre Ville,1162,Illizi,Illizi,33,Illizi
+33001,In Amenas,In Amenas Centre Ville,1163,In Amenas,In Amenas,33,Illizi
+33003,Bordj Omar Driss,Bordj Omar Driss Centre Ville,1159,Bordj Omar Driss,In Amenas,33,Illizi
+33004,Deb Deb,Deb Deb Centre Ville,1160,Debdeb,In Amenas,33,Illizi
 33005,Illizi 8 Mai 1945,Cité 08 Mai 1945 Illizi,1162,Illizi,Illizi,33,Illizi
 33010,Ohanet,Village Ohanet,1163,In Amenas,In Amenas,33,Illizi
 33015,Tin Fouye 05 Juillet 1962,Village Tin Fouye,1159,Bordj Omar Driss,In Amenas,33,Illizi
 33017,In Amenas Sonatrach Division Production,Base De Vie Dp Sonatrach,1163,In Amenas,In Amenas,33,Illizi
 33018,Illizi Secteur Militaire,Centre Ville Illizi,1162,Illizi,Illizi,33,Illizi
-33019,In Amenas Secteur Militaire,Zone Industrielle  In Amenas,1163,In Amenas,In Amenas,33,Illizi
+33019,In Amenas Secteur Militaire,Zone Industrielle In Amenas,1163,In Amenas,In Amenas,33,Illizi
 33021,Illizi In Kours,"In El Kours ,Illizi",1162,Illizi,Illizi,33,Illizi
 33022,Tarat,Tarat,1163,In Amenas,In Amenas,33,Illizi
 33023,Timeroualine,Timeroualine,1160,Debdeb,In Amenas,33,Illizi
 33024,Merksene,Merksene,1160,Debdeb,In Amenas,33,Illizi
-33025,Illizi Etablissement  Postal Itinerant 1,,1162,Illizi,Illizi,33,Illizi
+33025,Illizi Etablissement Postal Itinerant 1,,1162,Illizi,Illizi,33,Illizi
 ,Illizi Cour,Cour Illizi Centre Ville Illizi,1162,Illizi,Illizi,33,Illizi
 34000,Bordj Bou Arreridj,Cité 01 Novembre Bba,1166,B. B. Arreridj,Bordj Bou Arreridj,34,Bordj Bou Arreridj
 34001,Ras El Oued,Rue Salh Bey Ras El Oued,1191,Ras El Oued,Ras El Oued,34,Bordj Bou Arreridj
@@ -3035,9 +3035,9 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 35027,Rouafa,Centre Rouafa,1228,Timezrit,Isser,35,Boumerdès
 35028,Si Mustapha,Rue M'Hamed Ben Amrouche Si Mustapha,1222,Si Mustapha,Isser,35,Boumerdès
 35029,Taourga,Rue Mahiedine Med Seghir Taouerga,1225,Taourga,Baghlia,35,Boumerdès
-35030,Abada,Village Abada   Abada,1198,Afir,Dellys,35,Boumerdès
+35030,Abada,Village Abada  Abada,1198,Afir,Dellys,35,Boumerdès
 35031,Ammal,Rue Chaalal Ali Ammal,1199,Ammal,Thenia,35,Boumerdès
-35032,Azrou,Village Azrou   Azrou,1210,Dellys,Dellys,35,Boumerdès
+35032,Azrou,Village Azrou  Azrou,1210,Dellys,Dellys,35,Boumerdès
 35033,Benchoud,Village Agricole Ben Choud,1201,Ben Choud,Dellys,35,Boumerdès
 35034,Benmerzouga,Village Ben Merzouga,1204,Boudouaou,Boudouaou,35,Boumerdès
 35035,Bouaidel,Village Bouaidel,1202,Beni Amrane,Thenia,35,Boumerdès
@@ -3050,7 +3050,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 35042,Haddada,Village Hadada,1202,Beni Amrane,Thenia,35,Boumerdès
 35043,Hadj Ahmed,Village Agricole Hadj Ahmed,1229,Zemmouri,Bordj Menaiel,35,Boumerdès
 35044,Haouch Ben Ouali,Village Haouch Ben Ouali,1203,Bordj Menaiel,Bordj Menaiel,35,Boumerdès
-35045,Haouch El Mokhfi,Hai Haouch El Mokhfi   Ouled Hedadj,1206,Boumerdes,Boumerdes,35,Boumerdès
+35045,Haouch El Mokhfi,Hai Haouch El Mokhfi  Ouled Hedadj,1206,Boumerdes,Boumerdes,35,Boumerdès
 35046,Karma,Village El Karma,1206,Boumerdes,Boumerdes,35,Boumerdès
 35047,Kehf El Gharbi,Village Kef El Gharbi,1214,Isser,Isser,35,Boumerdès
 35048,Kharouba,Cité Kalache Brahim El Kharouba,1206,Boumerdes,Boumerdes,35,Boumerdès
@@ -3066,7 +3066,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 35060,Zaatra,Village Zaatra,1229,Zemmouri,Bordj Menaiel,35,Boumerdès
 35061,Zemmouri El Bahri,Village Zemmouri El Bahri,1229,Zemmouri,Bordj Menaiel,35,Boumerdès
 35062,Boumerdes Le Rocher,Cité 1200 Logements Complexe Des Ptt Boumerdes,1206,Boumerdes,Boumerdes,35,Boumerdès
-35063,Boumerdes Faculte Des Sciences,Faculte Des Sciences. Route De La Gare Ferroviaire   Boumerdes,1206,Boumerdes,Boumerdes,35,Boumerdès
+35063,Boumerdes Faculte Des Sciences,Faculte Des Sciences. Route De La Gare Ferroviaire  Boumerdes,1206,Boumerdes,Boumerdes,35,Boumerdès
 35064,Boudouaou Faculte De Droit,"Faculte De Droit, Boudouaou, Boumerdes",1204,Boudouaou,Boudouaou,35,Boumerdès
 35065,Boudouaou Plateau,"Plateau ""Est"" Boudouaou El Bahri",1205,Boudouaou El Bahri,Boudouaou,35,Boumerdès
 35066,Isser Epjgn,Esgn Rue Abane Remdane Isser,1214,Isser,Isser,35,Boumerdès
@@ -3142,7 +3142,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 37014,Tindouf Sghir Mohammed,,1255,Tindouf,Tindouf,37,Tindouf
 37015,Tindouf Lafdil Mohammed,,1255,Tindouf,Tindouf,37,Tindouf
 37016,Tindouf Boumediene Sidi Brahim,Hai Remadin,1255,Tindouf,Tindouf,37,Tindouf
-37017,Tindouf Etablissement  Postal Itinerant 1,,1255,Tindouf,Tindouf,37,Tindouf
+37017,Tindouf Etablissement Postal Itinerant 1,,1255,Tindouf,Tindouf,37,Tindouf
 38000,Tissemsilt,Rue 24 Fevrier,1276,Tissemsilt,Tissemsilt,38,Tissemsilt
 38001,Bordj Bounaama,Rue Houari Boumadiene,1259,Bordj Bounaama,Bordj Bounaama,38,Tissemsilt
 38002,Lardjem,Rue Emir Aek,1264,Lardjem,Lardjem,38,Tissemsilt
@@ -3181,7 +3181,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 38040,Ouled Bessem 01 Novembre,,1269,Ouled Bessam,Tissemsilt,38,Tissemsilt
 38041,Bordj Emir Abdelkader Sahari Belkacem,,1260,Bordj El Emir Abdelkader,Bordj Emir Abdelkader,38,Tissemsilt
 38042,Tissemsilt Gare Routiere,Tissemsilt Gare Routiere,1276,Tissemsilt,Tissemsilt,38,Tissemsilt
-38043,Tissemsilt Etablissement  Postal Itinerant 1,,1276,Tissemsilt,Tissemsilt,38,Tissemsilt
+38043,Tissemsilt Etablissement Postal Itinerant 1,,1276,Tissemsilt,Tissemsilt,38,Tissemsilt
 ,Theniet El Had Hopital,Hopital Theniet El Had,1275,Theniet El Had,Theniet El Had,38,Tissemsilt
 39000,El Oued,Rue Palestine Cité Ouled Ahmed,1285,El-Oued,El Oued,39,El Oued
 39001,El Oued Nezla,Rue Independante Cité Nezla,1285,El-Oued,El Oued,39,El Oued
@@ -3264,7 +3264,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 40007,Bouhmama,Bouhmama,1311,Bouhmama,Bouhmama,40,Khenchela
 40008,Chechar,Chechar,1312,Chechar,Chechar,40,Khenchela
 40009,Kais El Amel,Cité 544 Logement Kais,1319,Kais,Kais,40,Khenchela
-40010,Khenchela Ben Boulaid,"Cité Ben Boulaid, Rue De Zoui   Khenchela",1320,Khenchela,Khenchela,40,Khenchela
+40010,Khenchela Ben Boulaid,"Cité Ben Boulaid, Rue De Zoui  Khenchela",1320,Khenchela,Khenchela,40,Khenchela
 40011,Taouzient,Taouzient,1327,Taouzianat,Kais,40,Khenchela
 40012,Tazougart,Tazouguert,1316,El Mahmal,Ouled Rechache,40,Khenchela
 40013,Zoui,Zoui,1324,Ouled Rechache,Ouled Rechache,40,Khenchela
@@ -3307,7 +3307,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 40052,Khenchela Gare Routiere,Route Ain Touila Khenchela,1320,Khenchela,Khenchela,40,Khenchela
 40053,Chechar Gare Routiere,Chechar Gare Routiere,1312,Chechar,Chechar,40,Khenchela
 40054,Zoui Essalem,Zoui Essalem,1324,Ouled Rechache,Ouled Rechache,40,Khenchela
-40055,Khenchela Etablissement  Postal Itinerant 1,,1320,Khenchela,Khenchela,40,Khenchela
+40055,Khenchela Etablissement Postal Itinerant 1,,1320,Khenchela,Khenchela,40,Khenchela
 ,Sekkala,Sekkala,1318,Ensigha,El Hamma,40,Khenchela
 ,Route De Batna,"Cité Route De Batna,Khenchla",1320,Khenchela,Khenchela,40,Khenchela
 41000,Souk Ahras,Rue Badji Mokhtar,1349,Souk Ahras,Souk Ahras,41,Souk Ahras
@@ -3815,7 +3815,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 10081,Ouled Rached,Ouled Rached 10185,12,Metarfa,Aougrout,49,Timimoun
 28058,Metarfa,Metarfa,12,Metarfa,Aougrout,49,Timimoun
 34034,Ouled Rached,Ouled Rached,12,Metarfa,Aougrout,49,Timimoun
-35050,Ouled Aissa,Centre Ouled Aissa   Ouled Aissa,14,Ouled Aissa,Charouine,49,Timimoun
+35050,Ouled Aissa,Centre Ouled Aissa  Ouled Aissa,14,Ouled Aissa,Charouine,49,Timimoun
 01010,Bordj Badji Mokhtar,Dair Bbm,5,Bordj Badji Mokhtar,Bordj Badji Mokhtar,50,Bordj Badji Mokhtar
 01042,Timiaouine,APC Timiaouine,23,Timiaouine,Bordj Badji Mokhtar,50,Bordj Badji Mokhtar
 01068,Bordj Badji Mokhtar Menad M'Hamed,"Siege Secteur Militaire Operationnel, B,B,Mokhtar",5,Bordj Badji Mokhtar,Bordj Badji Mokhtar,50,Bordj Badji Mokhtar
@@ -3902,8 +3902,8 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 30056,Taibine,Rue Bedjera Belkacem,1092,El Alia,El-Hadjira,55,Touggourt
 30058,Tebesbest Hay Ayad,Rue Ahmed Abchi El Mostakbel,1106,Tebesbest,Touggourt,55,Touggourt
 39027,Ghamra,Cité Ghamra,1097,Megarine,Megarine,55,Touggourt
-33002,Djanet,Tin Khatma  Djanet Centre Viille,1161,Djanet,Djanet,56,Djanet
-33006,Djanet Ain Abarbar,Cité Ain Abarbar   Djanet,1161,Djanet,Djanet,56,Djanet
+33002,Djanet,Tin Khatma Djanet Centre Viille,1161,Djanet,Djanet,56,Djanet
+33006,Djanet Ain Abarbar,Cité Ain Abarbar  Djanet,1161,Djanet,Djanet,56,Djanet
 33008,Bordj El Haoues,Bordj El Houess Centre Ville,1158,Bordj El Haouass,Djanet,56,Djanet
 33009,Iferi,Cité Ifri Djanet,1161,Djanet,Djanet,56,Djanet
 33012,Ihrir,Village Ihrir,1158,Bordj El Haouass,Djanet,56,Djanet
@@ -3932,7 +3932,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 39067,M'Rara,M'Rara,1293,M'rara,Djamaa,57,El Meghaier
 39076,Zaoualia,Cité Zaoualia,1300,Sidi Amrane,Djamaa,57,El Meghaier
 39086,Sidi Khelil Essalama,Cité Essalama,1302,Sidi Khelil,El Meghaier,57,El Meghaier
-39092,Djamaa Gare Routiere,Djamaa  Gare,1281,Djamaa,Djamaa,57,El Meghaier
+39092,Djamaa Gare Routiere,Djamaa Gare,1281,Djamaa,Djamaa,57,El Meghaier
 47001,El Meniaa,Centre Ville El Meniaa,1495,El Meniaa,El Menia,58,El Menia
 47006,Hassi El Gara,Centre Ville Hassi El Gara,1499,Hassi Gara,El Menia,58,El Menia
 47008,Bel Bachir,Quartier Hofret El Abbas El Meniaa,1495,El Meniaa,El Menia,58,El Menia
