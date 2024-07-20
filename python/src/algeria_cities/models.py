@@ -66,13 +66,3 @@ class PostcodeModel(BaseModel):
     wilaya_name_ascii: str
     # TODO: will need to look at empty field in JSON
     post_address_ascii: str = ''
-
-
-class EntryFilter:
-    def __init__(self, entries: List[Union[CityModel, PostcodeModel]]):
-        self.entries = entries
-
-    def find_by(self, key: str, value: Any) -> Union[CityModel, PostcodeModel]:
-        for entry in self.entries:
-            if getattr(entry, key) == value:
-                return entry

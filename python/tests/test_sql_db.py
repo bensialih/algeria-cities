@@ -5,7 +5,8 @@ import os
 from sqlalchemy import create_engine, text
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.orm.session import Session
-from algeria_cities.models import Base, City, Postcode, CityModel, PostcodeModel, EntryFilter
+from algeria_cities.models import Base, City, Postcode, CityModel, PostcodeModel
+from algeria_cities.search import EntryFilter
 from sqlite3 import Cursor
 from sqlite3 import Connection
 from unittest import TestCase
@@ -94,6 +95,29 @@ class TestCities(TestCase):
             column_names.remove("id")
             for column_key in column_names:
                 assert getattr(entry, column_key) == getattr(sql_entry, column_key)
+
+    def test_search_by_key_test(self):
+        file = os.path.join(JSON_DIR, "algeria_postcodes.json")
+        assert os.path.isfile(file)
+        entries = get_file_content(file)
+        filter_obj = EntryFilter(entries) \
+            .remove("post_code", "", PostcodeModel) \
+            .index("post_code")
+
+        sql_entries: Postcode = self.session.query(Postcode).all()
+        for index in range(200):
+            random_entry = randrange(1, 3900)
+            entry = sql_entries[random_entry]
+
+            if entry.post_code == "":
+                continue
+
+            json_entry = filter_obj.get_entry(entry.post_code)
+            column_names = Postcode.__table__.columns.keys()
+            column_names.remove("id")
+
+            for column_key in column_names:
+                assert getattr(json_entry, column_key) == getattr(entry, column_key)
 
     def test_for_empty_postcodes(self):
         sql_entry: Postcode = self.session.query(Postcode).filter(Postcode.post_code == "")
