@@ -1,13 +1,13 @@
 BEGIN TRANSACTION;
 CREATE TABLE IF NOT EXISTS "algeria_cities" (
 	"id"	integer NOT NULL PRIMARY KEY,
-	"commune_name"	varchar(255) NOT NULL COMMENT 'Name of commune in arabic',
-	"commune_name_ascii"	varchar(100) NOT NULL COMMENT 'Name of commune in ASCII characters (french)',
-	"daira_name"	varchar(255) NOT NULL COMMENT 'Name of daira in arabic',
-	"daira_name_ascii"	varchar(100) NOT NULL COMMENT 'Name of daira in ASCII characters (french)',
+	"commune_name"	varchar(255) NOT NULL,
+	"commune_name_ascii"	varchar(100) NOT NULL,
+	"daira_name"	varchar(255) NOT NULL,
+	"daira_name_ascii"	varchar(100) NOT NULL,
 	"wilaya_code"	varchar(4) NOT NULL ,
-	"wilaya_name"	varchar(255) NOT NULL COMMENT 'Name of wilaya in arabic',
-	"wilaya_name_ascii"	varchar(100) NOT NULL COMMENT 'Name of wilaya in ASCII characters (french)',
+	"wilaya_name"	varchar(255) NOT NULL,
+	"wilaya_name_ascii"	varchar(100) NOT NULL,
 	"osm_id"	integer NOT NULL
 );
 INSERT INTO "algeria_cities" VALUES (1,'أدرار','Adrar','أدرار','Adrar','01','أدرار','Adrar',4171602);

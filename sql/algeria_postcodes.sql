@@ -2,18 +2,18 @@ BEGIN TRANSACTION;
 CREATE TABLE IF NOT EXISTS "algeria_postcodes" (
 	"id"	integer NOT NULL PRIMARY KEY,
 	"post_code"	varchar(255) NOT NULL,
-	"post_name"	varchar(255) NOT NULL COMMENT 'Name of post in arabic',
-	"post_name_ascii"	varchar(255) NOT NULL COMMENT 'Name of post in ASCII characters (french)',
-	"post_address"	varchar(255) NOT NULL COMMENT 'Address of post in arabic',
-	"post_address_ascii"	varchar(255) NOT NULL COMMENT 'Address of post in ASCII characters (french)',
-	"commune_id"	integer NOT NULL COMMENT 'ID of commune',
-	"commune_name"	varchar(255) NOT NULL COMMENT 'Name of commune in arabic',
-	"commune_name_ascii"	varchar(100) NOT NULL COMMENT 'Name of commune in ASCII characters (french)',
-	"daira_name"	varchar(255) NOT NULL COMMENT 'Name of daira in arabic',
-	"daira_name_ascii"	varchar(100) NOT NULL COMMENT 'Name of daira in ASCII characters (french)',
+	"post_name"	varchar(255) NOT NULL,
+	"post_name_ascii"	varchar(255) NOT NULL,
+	"post_address"	varchar(255) NOT NULL,
+	"post_address_ascii"	varchar(255) NOT NULL,
+	"commune_id"	integer NOT NULL,
+	"commune_name"	varchar(255) NOT NULL,
+	"commune_name_ascii"	varchar(100) NOT NULL,
+	"daira_name"	varchar(255) NOT NULL,
+	"daira_name_ascii"	varchar(100) NOT NULL,
 	"wilaya_code"	varchar(4) NOT NULL,
-	"wilaya_name"	varchar(255) NOT NULL COMMENT 'Name of wilaya in arabic',
-	"wilaya_name_ascii"	varchar(100) NOT NULL COMMENT 'Name of wilaya in ASCII characters (french)'
+	"wilaya_name"	varchar(255) NOT NULL,
+	"wilaya_name_ascii"	varchar(100) NOT NULL
 );
 INSERT INTO "algeria_postcodes" VALUES (1,'01000','أدرار - القبّاضة الرّئيسيّة','Adrar','أدرار وسط، شارع الشّهداء','Adrar Centre Rue Des Marytim',1,'أدرار','Adrar','أدرار','Adrar','01','أدرار','Adrar');
 INSERT INTO "algeria_postcodes" VALUES (2,'01002','أدرار - سيدي محمد بالكبير','Adrar Sidi Med Belekbir','حي 140 مسكنّ، أدرار الجديدة','Cité 140 Logts Adrar Djadida',1,'أدرار','Adrar','أدرار','Adrar','01','أدرار','Adrar');

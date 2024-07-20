@@ -1,0 +1,25 @@
+
+[tool.poetry]
+name = "algeria-cities"
+version = "0.1.0"
+description = "python wrapper for algeria-cities"
+authors = ["A H Bensiali"]
+license = "MIT"
+readme = "README.md"
+# packages = [
+#     { include = "src/algeria_cities" }
+# ]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+sqlalchemy = "^2.0.31"
+sqlalchemy-utils = "^0.41.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[project.urls]
+Homepage = "https://github.com/othmanus/algeria-cities"
+Issues = "https://github.com/othmanus/algeria-cities/issues"
